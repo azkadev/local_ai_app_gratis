@@ -1,21 +1,8 @@
-# LocalAiAppGratis
+IyBMb2NhbEFpQXBwR3JhdGlzCgoKLS0tCgojIyMgRGVtbwoKLS0tCgojIyMg
+SW5zdGFsbCBMaWJyYXJ5CgpgYGBiYXNoCmRhcnQgcHViIGFkZCBsb2NhbF9h
+aV9hcHBfZ3JhdGlzCmBgYAoKb3IgZmx1dHRlcgoKYGBgYmFzaApkYXJ0IHB1
+YiBhZGQgbG9jYWxfYWlfYXBwX2dyYXRpc19mbHV0dGVyCmBgYAog
 
-
----
-
-### Demo
-
----
-
-### Install Library
-
-```bash
-dart pub add local_ai_app_gratis
-```
-
-or flutter
-
-```bash
-dart pub add local_ai_app_gratis_flutter
-```
- 
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
